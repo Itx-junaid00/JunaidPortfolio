@@ -674,7 +674,7 @@ p.quote1 {
   border-radius: 15%;
   text-align: center;
   /* font-size: large; */
-  margin: 7px 10px;
+  margin: 7px 5px;
   padding: 10px 11px;
 }
 p.quote2 {
@@ -688,7 +688,7 @@ text-align: center;
 margin: 12px -2px;
 padding: 10px 0px;
 align-items: center;
-margin-left: 10px;
+margin-left: 3px;
 }
 footer {
   background: red;
